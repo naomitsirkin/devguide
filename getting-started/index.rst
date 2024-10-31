@@ -13,3 +13,4 @@ Getting started
    pull-request-lifecycle
    getting-help
    generative-ai
+print("hello world ")
